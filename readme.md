@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img src="./asset/wallpaper_black_white.png">
 
 👋 Hi, I'm Prachet
 
