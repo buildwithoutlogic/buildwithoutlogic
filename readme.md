@@ -49,6 +49,8 @@ Turning everyday spending into clear, useful financial insights.
 </tr>
 </table>
 
+<div align="center">
+  
 🛠️ Tech Stack
 
 Languages & Development
@@ -92,13 +94,15 @@ Student Mode Smart Alerts Expense Tracking Financial Insights Offline Storage
 
 Replace these links with your actual profiles.
 
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=buildwithoutlogic&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=buildwithoutlogic&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithoutlogic&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=buildwithoutlogic&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 
 </div>
 
