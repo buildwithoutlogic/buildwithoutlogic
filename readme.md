@@ -14,35 +14,47 @@
 
 ---
 
-💰 Spend Bot
+<h2>🚀 Currently Building</h2>
 
-A smart financial assistant focused on helping students understand and manage their everyday spending.
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
+<h2>💰 Spend Bot</h2>
 
-Focus
+<p>
+A smart financial assistant focused on helping students
+understand and manage their everyday spending.
+</p>
 
-📊 Expense tracking and insights
+<h3>🎯 Focus</h3>
 
-💡 Smart spending recommendations
-
-🔔 Intelligent alerts
-
-🎯 Student-focused budgeting
-
-🔒 Privacy-first data handling
-
+<p>
+📊 Expense tracking and insights<br>
+💡 Smart spending recommendations<br>
+🔔 Intelligent alerts<br>
+🎯 Student-focused budgeting<br>
+🔒 Privacy-first data handling<br>
 🤖 AI-assisted financial guidance
+</p>
 
-Tech: JavaScript • React • IndexedDB • Recharts
+<p>
+<strong>Tech:</strong> JavaScript • React • IndexedDB • Recharts
+</p>
+
+<p>
+<strong>Tools:</strong> VS Code • IntelliJ IDEA • Git & GitHub
+</p>
 
 </td>
-<td width="30%" align="center">
 
-💸
+<td width="35%" align="center" valign="middle">
 
-Spend smarter.
+<img src="./asset/spend-bot.png" width="280" alt="Spend Bot Logo">
 
-Turning everyday spending into clear, useful financial insights.
+<br><br>
+
+<strong>Spend smarter.</strong>
 
 </td>
 </tr>
