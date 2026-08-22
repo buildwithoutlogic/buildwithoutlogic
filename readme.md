@@ -2,21 +2,17 @@
   
 <img src="./asset/wallpaper_black_white.png">
 
-👋 Hi, I'm Prachet
+# 👋 Hi, I'm Prachet
 
-💻 CSE Student • Developer • AI & Data Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Currently+working+on+Spend+Bot;Currently+working+on+SkillDNA;Currently+working+on+Information+Filtering+Platform" alt="Currently working on">
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode,idea" />
-
-<p><i>Building practical software, learning continuously, and exploring AI-powered applications.</i></p>
+<p>
+  CSE Student • Developer • AI & Data Enthusiast
+</p>
 
 </div>
 
-🚀 Currently Building
-
-<table>
-<tr>
-<td width="70%">
+---
 
 💰 Spend Bot
 
