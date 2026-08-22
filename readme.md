@@ -18,6 +18,7 @@
 
 A smart financial assistant focused on helping students understand and manage their everyday spending.
 
+
 Focus
 
 📊 Expense tracking and insights
