@@ -50,7 +50,7 @@ understand and manage their everyday spending.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./asset/spend-bot.png" width="280" alt="Spend Bot Logo">
+<img src="./asset/spend bot logo.png" width="280" alt="Spend Bot Logo">
 
 <br><br>
 
