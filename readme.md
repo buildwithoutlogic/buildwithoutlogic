@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Prachet
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Currently+working+on+Spend+Bot;Currently+working+on+SkillDNA;Currently+working+on+Information+Filtering+Platform" alt="Currently working on">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Currently+working+on+Spend+Bot" alt="Currently working on">
 
 <p>
   CSE Student • Developer • AI & Data Enthusiast
