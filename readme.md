@@ -1,8 +1,12 @@
 <div align="center">
-  
-<img src="./asset/wallpaper_black_white.png">
+
+<img src="./asset/intro.gif" width="900" alt="Prachet Intro">
+
+</div>
+<div align="center">
 
 # 👋 Hi, I'm Prachet
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Currently+working+on+Spend+Bot" alt="Currently working on">
 
@@ -103,7 +107,6 @@ Student Mode Smart Alerts Expense Tracking Financial Insights Offline Storage
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-Replace these links with your actual profiles.
 
 </div>
 
