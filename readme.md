@@ -39,8 +39,8 @@ Currently: Learning, building, experimenting, and turning ideas into real projec
 <td width="50%" align="center" valign="middle">
 
 <img
-  src="./assets/product-creative.svg"
-  width="400"
+  src="./asset/product-creative.svg"
+  width="600"
   alt="Product and Creative skills"
 />
 
@@ -49,8 +49,8 @@ Currently: Learning, building, experimenting, and turning ideas into real projec
 <td width="50%" align="center" valign="middle">
 
 <img
-  src="./assets/language.svg"
-  width="400"
+  src="./asset/language.svg"
+  width="600"
   alt="Programming language skills"
 />
 
@@ -59,17 +59,24 @@ Currently: Learning, building, experimenting, and turning ideas into real projec
 </tr>
 </table>
 
+Tools</h2>
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,git,github,vscode,html,css&perline=11" alt="tech stack">
 
 <div align="right">
-🤝 Connect With Me
 
+🤝 Connect With Me&nbsp;&nbsp;
 
 <a href="https://github.com/buildwithoutlogic">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/>
 </a>
+
 <a href="https://www.linkedin.com/in/prachet-singh-7b2631372">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
 </a>
+
+
+
 
 
 </div>
@@ -84,18 +91,14 @@ Currently: Learning, building, experimenting, and turning ideas into real projec
 
 </div>
 
-📈 Contribution Graph
+<h3>📈 Contribution Graph</h3>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithoutlogic&theme=github-compact&hide_border=true" width="100%" />
-
-</div>
-
-<div align="center">
-
-✨ Thanks for visiting my profile!
-
-Learning • Building • Improving
+<img
+  src="https://YOUR-APP.vercel.app/graph?username=buildwithoutlogic&theme=github-compact&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Graph"
+/>
 
 </div>
