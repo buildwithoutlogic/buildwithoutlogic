@@ -19,87 +19,48 @@
 </div>
 
 ---
+About me</h2>
 
-<h2>🚀 Currently Building</h2>
+Hi, I’m Prachet — a CSE student focused on AI & Data Science, a developer, and a badminton player.
 
-<table width="100%">
+I enjoy turning ideas into practical digital products, especially where technology, AI, and thoughtful UI/UX come together. I work with technologies like Java, C/C++, Python, JavaScript, React, and SQL, and I’m constantly exploring new ways to build better systems and experiences.
+
+Beyond coding, I’m passionate about badminton, which has taught me discipline, consistency, and the importance of continuous improvement.
+
+I like working on projects that go beyond simply “making something work” — I care about how it works, how it looks, and how people experience it.
+
+Currently: Learning, building, experimenting, and turning ideas into real projects. 🚀
+
+  
+🛠️ Tech Stack
+<table>
 <tr>
-<td width="65%" valign="top">
 
-<h2>💰 Spend Bot</h2>
+<td width="50%" align="center" valign="middle">
 
-<p>
-A smart financial assistant focused on helping students
-understand and manage their everyday spending.
-</p>
-
-<h3>🎯 Focus</h3>
-
-<p>
-📊 Expense tracking and insights<br>
-💡 Smart spending recommendations<br>
-🔔 Intelligent alerts<br>
-🎯 Student-focused budgeting<br>
-🔒 Privacy-first data handling<br>
-🤖 AI-assisted financial guidance
-</p>
-
-<p>
-<strong>Tech:</strong> JavaScript • React • IndexedDB • Recharts
-</p>
-
-<p>
-<strong>Tools:</strong> VS Code • IntelliJ IDEA • Git & GitHub
-</p>
+<img
+  src="./assets/product-creative.svg"
+  width="400"
+  alt="Product and Creative skills"
+/>
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="./asset/spend bot logo.png" width="280" alt="Spend Bot Logo">
-
-<br><br>
-
-<strong>Spend smarter.</strong>
+<img
+  src="./assets/language.svg"
+  width="400"
+  alt="Programming language skills"
+/>
 
 </td>
+
 </tr>
 </table>
 
-<div align="center">
-  
-🛠️ Tech Stack
 
-Languages & Development
-
-Tools
-
-JavaScript • React • HTML • CSS
-
-VS Code • IntelliJ IDEA • Git • GitHub
-
-📌 Featured Project
-
-💰 Spend Bot — Smart Financial Assistant for Students
-
-A student-focused finance application designed to make personal money management simpler through expense tracking, smart alerts, financial insights, and an easy-to-understand spending experience.
-
-Student Mode Smart Alerts Expense Tracking Financial Insights Offline Storage
-
-📚 Currently Learning
-
-🧠 Data Structures & Algorithms
-
-⚡ JavaScript Development
-
-🤖 Artificial Intelligence & Data Science
-
-🌐 Modern Web Development
-
-🔧 Software Engineering
-
-🐙 Git & GitHub
-
+<div align="right">
 🤝 Connect With Me
 
 
