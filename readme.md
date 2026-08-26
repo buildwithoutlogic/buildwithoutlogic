@@ -31,8 +31,10 @@ I like working on projects that go beyond simply “making something work” —
 
 Currently: Learning, building, experimenting, and turning ideas into real projects. 🚀
 
+<div align="center">
   
-🛠️ Tech Stack
+🛠️ Tech Stack<h2>
+</div>
 <table>
 <tr>
 
