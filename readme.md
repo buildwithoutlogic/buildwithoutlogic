@@ -10,7 +10,7 @@
 </p>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Currently+working+on+Spend+Bot" alt="Currently working on">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Currently+working+on+Vortex" alt="Currently working on">
 
 <p>
   CSE Student • Developer • AI & Data Enthusiast
@@ -98,7 +98,7 @@ Tools</h2>
 <div align="center">
 
 <img
-  src="https://YOUR-APP.vercel.app/graph?username=buildwithoutlogic&theme=github-compact&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithoutlogic&theme=github-compact&hide_border=true"
   width="100%"
   alt="GitHub Contribution Graph"
 />
